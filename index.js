@@ -43,7 +43,7 @@ async function checkAppointment() {
           Referer: "https://appointment.bmeia.gv.at/",
           "Referrer-Policy": "strict-origin-when-cross-origin",
         },
-        body: "Language=en&Office=KAIRO&CalendarId=44279679&PersonCount=1&Command=Next",
+        body: "Language=en&Office=KAIRO&CalendarId=44281520&PersonCount=1&Command=Next",
         method: "POST",
       }
     );
